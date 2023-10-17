@@ -14,10 +14,24 @@ body {
   padding: 16px;
   border-radius: 1%;
 }
+
+/* Header */
+
 header {
   padding-bottom: 10px;
   margin: 0 auto;
 }
+
+header p {
+  font-style: italic;
+}
+
+/* Content */
+
 .lyrics {
   margin: 0 auto;
+}
+
+.lyrics p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
